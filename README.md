@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewfaugno&label=Profile%20views&color=0e75b6&style=flat" alt="andrewfaugno" /> </p>
 
-- 🔭 I’m currently working on **New Projects**
+- 🔭 I’m currently working on **updating projects readme files**
 
 - 🌱 I’m currently learning **MERN**
 
