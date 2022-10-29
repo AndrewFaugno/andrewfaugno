@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at: [portfolio](https://andrewfaugno.github.io/react-portfolio/)
+- 👨‍💻 View my [**Portfolio**](https://andrewfaugno.github.io/react-portfolio/)
 
 - 📫 How to reach me: **andrewfaugno825@gmail.com**
 
